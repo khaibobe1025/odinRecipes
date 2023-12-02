@@ -22,3 +22,7 @@ a {
     font-family:fantasy;
     font-size:medium;
 }
+.navbar {
+    display:flexbox
+    
+}

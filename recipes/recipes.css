@@ -1,0 +1,44 @@
+body { 
+    background-color:rgb(4, 33, 48);
+    
+}
+h1 {
+    font-family: fantasy;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+}
+h2 {
+    font-family: fantasy;
+    font-style: oblique;
+    text-align: center
+}
+h3 {
+    font-family: fantasy;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+}  
+
+div {
+    border: 5px solid ivory;
+    margin: 5px;
+    padding:10px;
+    background-color: rgb(239, 241, 243); 
+    color:darkblue
+}
+h3 {
+    text-align: center;
+    font-weight: bold;
+
+}
+.ingredients {
+    text-align: left;
+  
+}
+li {
+    font-style:italic;
+}
+.recipe-name {
+    text-align: center;
+}
